@@ -1,2 +1,4 @@
 # PLD-Progressive-Landmark-Detection-for-Intrapartum-Ultrasound
 the official code for paper "PLD: Progressive Landmark Detection for Intrapartum Ultrasound Based on Segmentation-Auxiliary Semi-Supervised Learning"
+
+The code will be publicly available after the paper is accepted.
